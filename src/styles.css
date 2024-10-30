@@ -1,0 +1,22 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background: #007bff;
+    padding: 1rem;
+}
+
+nav a {
+    color: white;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+.product, .cart {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
